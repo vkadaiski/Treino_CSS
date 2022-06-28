@@ -1,0 +1,31 @@
+body{
+    margin: 10vh 25% 25vw 25%;
+    
+}
+hr{
+    color: #008080;
+}
+
+.data{
+    font-family: Roboto, sans-serif;
+    width: 400;
+    color: #008080;
+    
+}
+h1{
+    font-family: Montserrat, sans-serif;
+    width: 300;
+}
+.post-content{
+    font-family: open, sans-serif;
+}
+section{
+    background-color: #fffafa;
+    padding: 2% 2% 2% 2%;
+}
+
+#top{
+    margin: 2px 25% 50px 25%;
+
+    color: aquamarine;
+}
